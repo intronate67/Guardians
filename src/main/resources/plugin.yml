@@ -1,0 +1,7 @@
+name: Guardians
+main: com.mcdrum.dev.Guardians
+version: 1.1
+depend: [RemoteEntities]
+commands:
+    guard:
+        description: Spawn your guardian.
